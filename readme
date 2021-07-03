@@ -1,0 +1,11 @@
+git clone https://github.com/bud-ea/exam_Tech_prog_summer_2021.git
+git pull
+git checkout -b 201-352_Shchipunov
+git add *
+git commit -m "изменения"
+git push
+
+Cлияние:
+
+git checkout 201-352_Shchipunov
+git merge master
